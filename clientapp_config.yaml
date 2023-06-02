@@ -1,2 +1,5 @@
-message: hello world
-terrapin: pandia
+spring:
+  application:
+    name: clientapp
+   profiles:
+    active: dev
