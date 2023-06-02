@@ -10,7 +10,3 @@ randomMap:
   1: one
   2: two
   3: three
-anArray:
-  - value
-  - anotherValue
-  - thirdValue
