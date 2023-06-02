@@ -1,12 +1,4 @@
-spring:
-  application:
-    name: clientapp
-   profiles:
-    active: dev
-    
+
 message: hello world
 terrapin: pandia
-randomMap:
-  1: one
-  2: two
-  3: three
+
